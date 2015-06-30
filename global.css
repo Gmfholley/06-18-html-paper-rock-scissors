@@ -1,0 +1,31 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background: #FFCACA;
+  color: white;
+}
+
+h1 {
+  padding: 10px;
+  font-size: 40px;
+}
+
+p {
+  line-height: 2;
+  padding: 10px;
+  font-size: 24px
+}
+
+/*img {
+  opacity: .5;
+}*/
+
+ul {
+  list-style-type: none;
+}
+li {
+  display: inline;
+  text-align: center;
+}
